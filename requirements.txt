@@ -1,0 +1,6 @@
+streamlit
+altair
+anthropic
+pandas
+python-dotenv
+python-dateutil
